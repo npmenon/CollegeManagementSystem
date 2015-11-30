@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+	#container{
+					position:relative;
+	}
+
+	#imagegallery{
+					position:relative;
+					top:50px;	
+					left:70px;				
+	}
+	
+	h2{
+					font-style: italic;
+	}
+	
+	#container_portal{
+	                position:relative;
+					border-style: dashed;
+					border-width: thin;
+					background-color: #C2CFD1;
+	}
+	
+	div#portals a img{
+					
+					position:relative;
+					width:150px;
+					height:150px;
+					left:140px;
+					margin-right: 110px;
+					border-style:solid;
+					border-width:thin;
+	
+	}
+	
